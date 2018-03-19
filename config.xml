@@ -4,8 +4,8 @@
 		id          = "gui"
         version     = "1.0.0" >
 
-    <name>App with jQM and GUI</name>
-    <description>Mobile app with jQuery Mobile user interface</description>
+    <name>App with jQM</name>
+    <description>Businesscard with jQM</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
