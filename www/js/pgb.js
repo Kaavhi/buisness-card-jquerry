@@ -18,3 +18,11 @@ function deviceInfo() {
 
 	document.getElementById("deviceDetails").innerHTML = info;	
 }
+
+function interests() {
+
+	interests = 'Cos tam<br>' + 
+			'Cos tam<br>' +'Cos jeszcze<br>';
+
+	document.getElementById("interestsDetails").innerHTML = interests;	
+}
